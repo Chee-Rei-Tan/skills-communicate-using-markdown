@@ -5,3 +5,7 @@
 ``` python
 print("Hello World!")
 ```
+
+- [ ] Make a project
+- [ ] Collaborate with others
+- [ ] Master GitHub
